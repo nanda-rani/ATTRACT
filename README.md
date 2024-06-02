@@ -1,4 +1,4 @@
 # CAPTAIN
 
 ## Note: 
-This is the only Glimpse of the dataset. Remaining part including code will be released after research paper acceptance.
+This is the only Glimpse of the dataset. The remaining part, including the code, will be released after the research paper is accepted.
